@@ -11,7 +11,7 @@ Help making useful readmes
 ### Installation:
 Clone repo, instal node, install inquirer, then run the app
 ### Usage:
-
+![image](https://user-images.githubusercontent.com/51461957/143083979-ef9c92bc-c64a-4216-aefd-0777630ee7f6.JPG)
 ### License:
 MIT License
 ### Contributors
